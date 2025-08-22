@@ -5,7 +5,7 @@ export const WrapperArea = styled.div`
   width: 100vw;
   max-width: 1280px;
   min-height: 100vh;
-  color: #fefefe;
+  color: #333333;
 
   display: flex;
   justify-content: center;

@@ -7,7 +7,7 @@ export const CardHeader = styled.div`
   flex-direction: column;
   width: 100%;
 
-  border-bottom: 1px solid #34394e;
+  border-bottom: 1px solid #ddd;
 `;
 
 export const TextHeader = styled.div`
@@ -23,16 +23,15 @@ export const CardContent = styled.div`
   flex-direction: column;
   align-items: center;
 
-  background-color: #222533;
+  background-color: #ffffff;
 
   width: 500px;
 
-  border: 2px solid #1d1d2d;
+  border: 1px solid #ddd;
   border-radius: 8px;
 
   padding: 1rem;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
-    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 `;
 
 export const CardBody = styled.div`
