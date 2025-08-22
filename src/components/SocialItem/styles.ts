@@ -8,7 +8,7 @@ export const SocialContent = styled.a`
 
   text-decoration: none;
 
-  color: #e5e5e5;
+  color: #333333;
   font-size: 1.2rem;
 
   span {
@@ -16,6 +16,6 @@ export const SocialContent = styled.a`
   }
 
   &:hover {
-    color: #ffffff;
+    color: #000000;
   }
 `;
